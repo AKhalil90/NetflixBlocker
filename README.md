@@ -8,7 +8,7 @@ This is a demo video so you can see the code in action:
 
 # Further Enhancements
 This code can be forked by any developer and developed further. Ideas of further development could be:
-- Develop a proper browser-extention (e.g. Google Chrome extension), so it can be easily available for non-tech users to download and use it.
+- Develop it as a browser-extention, so it can be easily available for non-tech users to download and use it.
 - Integrate the code with a central service provider that can control the list of movies to be blocked. You can give the user the ability to subscribe to any service provider to get the list of the blocked movies from.
 - You can enhance the functionality and let the user block movies for a certain actor that he don't like!
 - ***Go far away with you imagination!***
