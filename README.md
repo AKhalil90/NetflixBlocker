@@ -4,7 +4,7 @@ This is a ***JavaScript*** code that I wrote is inspired from the community dema
 I've developed this simple code as a proof-of-concept that blocking movies from client-side is something possible.
  
 # Demo Video
-This is a demo video so you can see the code in action:
+This is a demo video so you can see the code in action: https://youtu.be/mtgkOuFgu6o
 
 # Further Enhancements
 This code can be forked by any developer and developed further. Ideas of further development could be:
